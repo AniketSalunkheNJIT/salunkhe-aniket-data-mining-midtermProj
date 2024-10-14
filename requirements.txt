@@ -1,0 +1,4 @@
+mlxtend
+fp-growth
+pandas
+tabulate
