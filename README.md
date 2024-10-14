@@ -68,7 +68,7 @@ The required Python libraries can be installed via the `requirements.txt` file.
    pip install -r requirements.txt
 
 4. Run script:
-
-  ```bash
-  python app.py
+   
+   ```bash
+   python app.py
 
